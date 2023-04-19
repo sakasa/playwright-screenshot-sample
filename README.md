@@ -16,7 +16,12 @@ https://playwright.dev/
 ## Files
 
 ```bash
-
+playwright-screenshot-sample
+  |- screenshot/  # スクリーンショット出力先
+  |- Dockerfile    # Docker定義ファイル
+  |- LICENSE      # ライセンス
+  |- pw.py        # 実行するPythonスクリプト
+  `- README.md    # this
 ```
 
 ## Setup & Build docker image
